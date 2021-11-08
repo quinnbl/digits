@@ -5,7 +5,6 @@ import swal from 'sweetalert';
 import { Meteor } from 'meteor/meteor';
 import PropTypes from 'prop-types';
 import SimpleSchema2Bridge from 'uniforms-bridge-simple-schema-2';
-import { Contacts } from '../../api/contact/Contacts';
 import { Notes } from '../../api/note/Notes';
 
 const bridge = new SimpleSchema2Bridge(Notes.schema);
