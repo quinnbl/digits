@@ -50,6 +50,12 @@ Then go to http://localhost:3000/ and the app should start!
  
  <img src="doc/landing.png">
  
+# User Home Page
+
+This page is exactly the same as the Landing page, except it also has a navbar which will take you to the Add Contact and List Contacts pages.
+
+ <img src="doc/homepage.png">
+ 
 # Sign In Page
  
  A page that allows returning users to sign in.
