@@ -11,6 +11,7 @@ Then run < meteor npm install > inside the app directory, followed by < meteor n
 
 The first time you run the app, it will create some default users and data. Here is the output:
 
+```
 meteor npm run start
 
 > meteor-application-template-react@ start /Users/philipjohnson/github/philipmjohnson/digits/app
@@ -38,7 +39,7 @@ W20180305-18:06:02.806(-10)? (STDERR)
 W20180305-18:06:02.806(-10)? (STDERR)   meteor npm install --save bcrypt
 W20180305-18:06:02.806(-10)? (STDERR) 
 W20180305-18:06:02.806(-10)? (STDERR) in the root directory of your application.
-
+```
 
 Then go to http://localhost:3000/ and the app should start!
 
